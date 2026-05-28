@@ -1,0 +1,6 @@
+{
+  "name": "Alerta Viento",
+  "description": "Monitorea la velocidad, dirección y ráfagas de viento en tiempo real para proteger tus lonas de cochera. Incluye brújula digital integrada y registro de alertas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
